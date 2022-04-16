@@ -12,4 +12,4 @@ hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git! test master
 hello atguigu!hello git! hot-fix test
->>>>>>> hot-fix
+111111111111111111111111
